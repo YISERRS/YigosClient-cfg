@@ -1,0 +1,1 @@
+# YigosClient-cfg
